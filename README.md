@@ -157,7 +157,7 @@
     <h2 class="section-title">Nossa Localização</h2>
     <p style="text-align:center;">Estamos localizados em Olho d'Água das Cunhãs - MA</p>
     <p style="text-align:center;"><a href="Av.Zezico Costa, 81 - centro, Olho d'Água das Cunhãs - MA, 65706-000" target="_blank">Abrir no Google Maps</a></p>
-    <iframe src="https://Av.Zezico Costa, 81 - centro, Olho d'Água das Cunhãs - MA, 65706-000"></iframe>
+    <iframe src="https://maps.app.goo.gl/MWxixGDWAhG2tAxn6"></iframe>
   </section>
 
   <section id="contato">
